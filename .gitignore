@@ -1,4 +1,5 @@
 .venv
 .vscode
 references/*
-__pycache__
+__pycache_
+env_
